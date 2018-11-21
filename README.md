@@ -1,5 +1,4 @@
-# googlemaps
-google maps
+# google maps 使用
 
 ### 一、引入依赖Javascript文件
 给大家介绍两种引入js文件的方式
